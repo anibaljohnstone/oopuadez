@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aishainah.mtm-mediatorenteammuenchen.de/sitemap.xml
